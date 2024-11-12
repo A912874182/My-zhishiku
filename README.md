@@ -1,2 +1,3 @@
-# My-zhishiku
+# 知识库
 我的知识库
+不会写代码，要怎么弄？想要写一个桌面版的CHAT GPT，调用OPEN AI资源
